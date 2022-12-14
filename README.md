@@ -66,6 +66,7 @@ https://drive.google.com/file/d/1wD2AeuQnoK3OyLOt5QG4jfPolMGPY_jr/view?usp=shari
 
 
 
+
 ### 유형 검사 진행화면
 
 ![유형검사 진행화면](README.assets/유형검사_시작.PNG)
